@@ -12,6 +12,9 @@ body {
     font-weight: 400;
     -webkit-font-smoothing: antialiased;
 }
+.testcss {
+    font-size: 20px;
+}
 .form-wrapper {
     display: flex;
     align-items: center;
